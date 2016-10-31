@@ -8,5 +8,6 @@ public class GitTest {
 			num += i;
 		}
 		System.out.println(num);
+		System.out.println("laowang");
 	}
 }
